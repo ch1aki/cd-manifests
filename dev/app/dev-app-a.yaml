@@ -15,7 +15,7 @@ spec:
       valueFiles:
       - values/dev-app-a.yaml
     path: app-a
-    repoURL: https://github.com/gitops-demo/manifests
+    repoURL: https://github.com/ch1aki/manifests
     targetRevision: dev
   syncPolicy:
     automated:

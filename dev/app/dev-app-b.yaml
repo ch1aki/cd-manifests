@@ -12,7 +12,7 @@ spec:
   project: app
   source:
     path: app-b/overlays/dev
-    repoURL: https://github.com/gitops-demo/manifests
+    repoURL: https://github.com/ch1aki/manifests
     targetRevision: dev
   syncPolicy:
     automated:

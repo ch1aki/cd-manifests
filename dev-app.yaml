@@ -10,7 +10,7 @@ spec:
   project: default
   source:
     path: dev/app
-    repoURL: https://github.com/gitops-demo/cd-manifests
+    repoURL: https://github.com/ch1aki/cd-manifests
     targetRevision: HEAD
   syncPolicy:
     automated:
